@@ -19,7 +19,7 @@ To propose design changes (without a command line):
 7. Submit a pull request: 
 <img src="./img/pr.png" height="21px" style="margin-bottom:-8px;margin-left:10px;">
 
-For safety reasons, we'll have to carefully review your proposed changes before we can merge them in, and we may ask for changes. To make sure your time will be well spent, consider 
+For safety reasons, we'll have to carefully review your proposed changes before we can merge them in, and we may ask for changes. 
 
 ## Add or Enhance Documentation
 This is one of the easiest and best ways to help. If you see a way to improve documentation, You can:
