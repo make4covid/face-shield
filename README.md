@@ -16,6 +16,16 @@ Prusa's files were released under the CC BY-SA-NC license.
 # Issues?
 If you find a problem with a design, compatibility between files, safety, documentation, or suggestions for improvement, please [open an issue.](https://github.com/make4covid/face-shield/issues/new?assignees=&labels=&template=design-issue-template.md&title=)
 
+# Github for _hardware?_
+It's not unheard of. Here are some things to keep in mind.
+* Diffs don't mean much on binary files, so don't worry about them.
+* Github _can_ show visual diffs on `.stl` files, so it's helpful to include them in addition to other CAD file types.
+* Merging is also a challenge with binaries. Replace whole files or coordinate to avoid merge conflicts.
+* Hardware repos can get huge, but you don't have to clone down everything to contribute.
+* If the repo gets too big, we can set up `git lfs` (large file storage) to trim it down.
+
+If you have other ideas on how to optimize git for open-source hardware, please [submit an issue](https://github.com/make4covid/face-shield/issues/new?assignees=&labels=&template=design-issue-template.md&title=) to let us know!
+
 # Awesome Make4Covid
 Check out the [Awesome M4C](https://github.com/make4covid/awesome-make4covid) repo for tons of helpful resources.
 
