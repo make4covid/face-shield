@@ -5,12 +5,19 @@ If you have an idea or notice a problem, the best way to help is to [open an iss
 ## Propose a Design Update
 To propose design changes (without a command line):
 1. Submit an issue and offer to make the proposed change yourself. This will increase your chances that your changes will be used.
-1. Fork this repository: <img src="./img/fork.png" height="30px" style="margin-bottom:-11px;margin-left:10px;">
-2. Download the files you want to change: <img src="./img/download.png" height="23px" style="margin-bottom:-8px;margin-left:10px;">
-3. Make the changes to the design files.
-4. Add an `.STL` export for 3D designs (bonus points)
-5. Upload and commit your changes: <img src="./img/upload.png" height="22px" style="margin-bottom:-8px;margin-left:10px;">
-7. Submit a pull request: <img src="./img/pr.png" height="21px" style="margin-bottom:-8px;margin-left:10px;">
+2. Fork this repository: 
+<img src="./img/fork.png" height="30px" style="margin-bottom:-11px;margin-left:10px;">
+
+3. Download the files you want to change: 
+<img src="./img/download.png" height="23px" style="margin-bottom:-8px;margin-left:10px;">
+
+4. Make the changes to the design files.
+5. Add an `.STL` export for 3D designs (bonus points)
+6. Upload and commit your changes: 
+<img src="./img/upload.png" height="22px" style="margin-bottom:-8px;margin-left:10px;">
+
+7. Submit a pull request: 
+<img src="./img/pr.png" height="21px" style="margin-bottom:-8px;margin-left:10px;">
 
 For safety reasons, we'll have to carefully review your proposed changes before we can merge them in, and we may ask for changes. To make sure your time will be well spent, consider 
 
